@@ -1,3 +1,3 @@
 # logmein_autologin
 
-This Chrome extension is designed to automate the login process for LogMeIn. Save time and streamline access to your account with seamless auto-login functionality. Perfect for frequent users who value efficiency and simplicity.
+This Chrome extension automates the login process for LogMeIn, saving you time and simplifying access to your account with seamless auto-login functionality. Ideal for frequent users who prioritize efficiency and convenience.
